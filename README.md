@@ -16,7 +16,7 @@
 #that hardest part of this was zeroing in on that loaction of the users sceren.
 
 #HERE IS A PICTURE AS TO WHAT A CALL OF DUTY KILL WOULD LOOK LIKE. AKA WHAT THE WINDOW IS GOING TO TRY AND SCREEN SHOT.
-
+CodKill.png
 
 
 
