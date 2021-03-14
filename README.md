@@ -15,4 +15,9 @@
 #youll know its working correctly if the commented code "actual target area" is what appears in the window that gets generate. this would be the location of the word "downed" 
 #that hardest part of this was zeroing in on that loaction of the users sceren.
 
+#HERE IS A PICTURE AS TO WHAT A CALL OF DUTY KILL WOULD LOOK LIKE. AKA WHAT THE WINDOW IS GOING TO TRY AND SCREEN SHOT.
+
+
+
+
 python Project2.py
